@@ -18,7 +18,6 @@ I'm an engineer passionate about signal processing, embedded systems, and machin
 
 ## Contact me
 
-- [Website](https://siddhantchaurasia.engineer/)
 - [![Email](https://img.shields.io/badge/Email-schaurasia%40binghamton.edu-red)](mailto:schaurasia@binghamton.edu)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/siddchau27-blue)](https://linkedin.com/in/siddchau27)
 
