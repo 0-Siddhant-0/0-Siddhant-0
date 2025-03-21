@@ -7,11 +7,10 @@
 I'm an engineer passionate about signal processing, embedded systems, and machine learning.
 
 ## Some Projects
-
-- **Signal Processing**: DFT processing for jammed signals detection
-- **Estimation Theory**: Passive emitter localization with Doppler AoA
-- **Robotics**: ESP32 powered robot dog development
-- **AI/ML**: Transformer-based human vs. AI text classification
+- **[Signal Processing](https://github.com/0-Siddhant-0/signal-jamming-detection)**: DFT processing for jammed signals detection
+- **[Estimation Theory](https://github.com/0-Siddhant-0/Doppler-AoA-Emitter-Location)**: Passive emitter localization with Doppler AoA
+- **[Robotics](https://github.com/0-Siddhant-0/esp32-robot-dog-code)**: ESP32 powered robot dog development
+- **[AI/ML](https://github.com/0-Siddhant-0/AI-vs-Human-text-classifier)**: Transformer-based human vs. AI text classifications
 
 ## GitHub Stats
 
