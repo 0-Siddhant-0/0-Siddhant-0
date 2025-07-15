@@ -14,7 +14,7 @@ I'm an engineer passionate about signal processing, embedded systems, and machin
 
 ## GitHub Stats
 
-<img src="https://raw.githubusercontent.com/0-Siddhant-0/portfolio/refs/heads/main/src/assets/git_stats.png" alt="My GitHub Language Stats" width="500">
+<img src="https://raw.githubusercontent.com/0-Siddhant-0/portfolio/refs/heads/main/src/assets/github_stats.png" alt="My GitHub Language Stats" width="500">
 
 ## Contact me
 
